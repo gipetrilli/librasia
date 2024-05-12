@@ -1,0 +1,23 @@
+# Transcrição em Tempo Real para Vídeos e Aulas
+
+## Descrição
+Este projeto utiliza IA para transcrever áudio em tempo real, auxiliando pessoas com deficiência auditiva no acompanhamento de vídeos e aulas.
+
+## Funcionalidades
+* Captura de áudio em tempo real
+* Redução de ruído de fundo
+* Transcrição utilizando modelo BERT
+
+## Instalação
+1. Clone o repositório: `git clone https://github.com/seu_usuario/TranscricaoTempoReal.git`
+2. Instale as dependências: `pip install -r requirements.txt`
+
+## Uso
+1. Execute o script `transcricao.py`.
+2. O programa irá capturar áudio do microfone e exibir a transcrição em tempo real.
+
+## Autores
+* [Giovanna Petrilli Venditti]
+
+## Licença
+MIT
